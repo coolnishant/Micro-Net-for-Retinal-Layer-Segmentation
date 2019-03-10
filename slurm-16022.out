@@ -1,0 +1,1754 @@
+2019-02-02 14:20:04.385301: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2019-02-02 14:20:26.953582: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1030] Found device 0 with properties: 
+name: Tesla K80 major: 3 minor: 7 memoryClockRate(GHz): 0.8235
+pciBusID: 0000:06:00.0
+totalMemory: 11.17GiB freeMemory: 11.11GiB
+2019-02-02 14:20:26.953815: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:06:00.0, compute capability: 3.7)
+denoised_1.png
+denoised_2.png
+denoised_3.png
+denoised_4.png
+denoised_5.png
+denoised_6.png
+denoised_7.png
+denoised_8.png
+denoised_9.png
+denoised_10.png
+denoised_11.png
+denoised_12.png
+denoised_13.png
+denoised_14.png
+denoised_15.png
+denoised_16.png
+denoised_17.png
+denoised_18.png
+denoised_19.png
+denoised_20.png
+denoised_21.png
+denoised_22.png
+denoised_23.png
+denoised_24.png
+denoised_25.png
+denoised_26.png
+denoised_27.png
+denoised_28.png
+denoised_29.png
+denoised_30.png
+denoised_31.png
+denoised_32.png
+denoised_33.png
+denoised_34.png
+denoised_35.png
+denoised_36.png
+denoised_37.png
+denoised_38.png
+denoised_39.png
+denoised_40.png
+denoised_41.png
+denoised_42.png
+denoised_43.png
+denoised_44.png
+denoised_45.png
+denoised_46.png
+denoised_47.png
+denoised_48.png
+denoised_49.png
+denoised_50.png
+denoised_51.png
+denoised_52.png
+denoised_53.png
+denoised_54.png
+denoised_55.png
+denoised_56.png
+denoised_57.png
+denoised_58.png
+denoised_59.png
+denoised_60.png
+denoised_61.png
+denoised_62.png
+denoised_63.png
+denoised_64.png
+denoised_65.png
+denoised_66.png
+denoised_67.png
+denoised_68.png
+denoised_69.png
+denoised_70.png
+denoised_71.png
+denoised_72.png
+denoised_73.png
+denoised_74.png
+denoised_75.png
+denoised_76.png
+denoised_77.png
+denoised_78.png
+denoised_79.png
+denoised_80.png
+denoised_81.png
+denoised_82.png
+denoised_83.png
+denoised_84.png
+denoised_85.png
+denoised_86.png
+denoised_87.png
+denoised_88.png
+denoised_89.png
+denoised_90.png
+denoised_91.png
+denoised_92.png
+denoised_93.png
+denoised_94.png
+denoised_95.png
+denoised_96.png
+denoised_97.png
+denoised_98.png
+denoised_99.png
+denoised_100.png
+denoised_101.png
+denoised_102.png
+denoised_103.png
+denoised_104.png
+denoised_105.png
+denoised_106.png
+denoised_107.png
+denoised_108.png
+denoised_109.png
+denoised_110.png
+denoised_111.png
+denoised_112.png
+denoised_113.png
+denoised_114.png
+denoised_115.png
+denoised_116.png
+denoised_117.png
+denoised_118.png
+denoised_119.png
+denoised_120.png
+denoised_121.png
+denoised_122.png
+denoised_123.png
+denoised_124.png
+denoised_125.png
+denoised_126.png
+denoised_127.png
+denoised_128.png
+denoised_129.png
+denoised_130.png
+denoised_131.png
+denoised_132.png
+denoised_133.png
+denoised_134.png
+denoised_135.png
+denoised_136.png
+denoised_137.png
+denoised_138.png
+denoised_139.png
+denoised_140.png
+denoised_141.png
+denoised_142.png
+denoised_143.png
+denoised_144.png
+denoised_145.png
+denoised_146.png
+denoised_147.png
+denoised_148.png
+denoised_149.png
+denoised_150.png
+denoised_151.png
+denoised_152.png
+denoised_153.png
+denoised_154.png
+denoised_155.png
+denoised_156.png
+denoised_157.png
+denoised_158.png
+denoised_159.png
+denoised_160.png
+denoised_161.png
+denoised_162.png
+denoised_163.png
+denoised_164.png
+denoised_165.png
+denoised_166.png
+denoised_167.png
+denoised_168.png
+denoised_169.png
+denoised_170.png
+denoised_171.png
+denoised_172.png
+denoised_173.png
+denoised_174.png
+denoised_175.png
+denoised_176.png
+denoised_177.png
+denoised_178.png
+denoised_179.png
+denoised_180.png
+denoised_181.png
+denoised_182.png
+denoised_183.png
+denoised_184.png
+denoised_185.png
+denoised_186.png
+denoised_187.png
+denoised_188.png
+denoised_189.png
+denoised_190.png
+denoised_191.png
+denoised_192.png
+denoised_193.png
+denoised_194.png
+denoised_195.png
+denoised_196.png
+denoised_197.png
+denoised_198.png
+denoised_199.png
+denoised_200.png
+denoised_201.png
+denoised_202.png
+denoised_203.png
+denoised_204.png
+denoised_205.png
+denoised_206.png
+denoised_207.png
+denoised_208.png
+denoised_209.png
+denoised_210.png
+denoised_211.png
+denoised_212.png
+denoised_213.png
+denoised_214.png
+denoised_215.png
+denoised_216.png
+denoised_217.png
+denoised_218.png
+denoised_219.png
+denoised_220.png
+denoised_221.png
+denoised_222.png
+denoised_223.png
+denoised_224.png
+denoised_225.png
+denoised_226.png
+denoised_227.png
+denoised_228.png
+denoised_229.png
+denoised_230.png
+denoised_231.png
+denoised_232.png
+denoised_233.png
+denoised_234.png
+denoised_235.png
+denoised_236.png
+denoised_237.png
+denoised_238.png
+denoised_239.png
+denoised_240.png
+denoised_241.png
+denoised_242.png
+denoised_243.png
+denoised_244.png
+denoised_245.png
+denoised_246.png
+denoised_247.png
+denoised_248.png
+denoised_249.png
+denoised_250.png
+denoised_251.png
+denoised_252.png
+denoised_253.png
+denoised_254.png
+denoised_255.png
+denoised_256.png
+denoised_257.png
+denoised_258.png
+denoised_259.png
+denoised_260.png
+denoised_261.png
+denoised_262.png
+denoised_263.png
+denoised_264.png
+denoised_265.png
+denoised_266.png
+denoised_267.png
+denoised_268.png
+denoised_269.png
+denoised_270.png
+denoised_271.png
+denoised_272.png
+denoised_273.png
+denoised_274.png
+denoised_275.png
+denoised_276.png
+denoised_277.png
+denoised_278.png
+denoised_279.png
+denoised_280.png
+denoised_281.png
+denoised_282.png
+denoised_283.png
+denoised_284.png
+denoised_285.png
+denoised_286.png
+denoised_287.png
+denoised_288.png
+denoised_289.png
+denoised_290.png
+denoised_291.png
+denoised_292.png
+denoised_293.png
+denoised_294.png
+denoised_295.png
+denoised_296.png
+denoised_297.png
+denoised_298.png
+denoised_299.png
+denoised_300.png
+denoised_301.png
+denoised_302.png
+denoised_303.png
+denoised_304.png
+denoised_305.png
+denoised_306.png
+denoised_307.png
+denoised_308.png
+denoised_309.png
+denoised_310.png
+denoised_311.png
+denoised_312.png
+denoised_313.png
+denoised_314.png
+denoised_315.png
+denoised_316.png
+denoised_317.png
+denoised_318.png
+denoised_319.png
+denoised_320.png
+denoised_321.png
+denoised_322.png
+denoised_323.png
+denoised_324.png
+denoised_325.png
+denoised_326.png
+denoised_327.png
+denoised_328.png
+denoised_329.png
+denoised_330.png
+denoised_331.png
+denoised_332.png
+denoised_333.png
+denoised_334.png
+denoised_335.png
+denoised_336.png
+denoised_337.png
+denoised_338.png
+denoised_339.png
+denoised_340.png
+denoised_341.png
+denoised_342.png
+denoised_343.png
+denoised_344.png
+denoised_345.png
+denoised_346.png
+denoised_347.png
+denoised_348.png
+denoised_349.png
+denoised_350.png
+denoised_351.png
+denoised_352.png
+denoised_353.png
+denoised_354.png
+denoised_355.png
+denoised_356.png
+denoised_357.png
+denoised_358.png
+denoised_359.png
+denoised_360.png
+denoised_361.png
+denoised_362.png
+denoised_363.png
+denoised_364.png
+denoised_365.png
+denoised_366.png
+denoised_367.png
+denoised_368.png
+denoised_369.png
+denoised_370.png
+denoised_371.png
+denoised_372.png
+denoised_373.png
+denoised_374.png
+denoised_375.png
+denoised_376.png
+denoised_377.png
+denoised_378.png
+denoised_379.png
+denoised_380.png
+denoised_381.png
+denoised_382.png
+denoised_383.png
+denoised_384.png
+denoised_385.png
+denoised_386.png
+denoised_387.png
+denoised_388.png
+denoised_389.png
+denoised_390.png
+denoised_391.png
+denoised_392.png
+denoised_393.png
+denoised_394.png
+denoised_395.png
+denoised_396.png
+denoised_397.png
+denoised_398.png
+denoised_399.png
+denoised_400.png
+denoised_401.png
+denoised_402.png
+denoised_403.png
+denoised_404.png
+denoised_405.png
+denoised_406.png
+denoised_407.png
+denoised_408.png
+denoised_409.png
+denoised_410.png
+denoised_411.png
+denoised_412.png
+denoised_413.png
+denoised_414.png
+denoised_415.png
+denoised_416.png
+denoised_417.png
+denoised_418.png
+denoised_419.png
+denoised_420.png
+denoised_421.png
+denoised_422.png
+denoised_423.png
+denoised_424.png
+denoised_425.png
+denoised_426.png
+denoised_427.png
+denoised_428.png
+denoised_429.png
+denoised_430.png
+denoised_431.png
+denoised_432.png
+denoised_433.png
+denoised_434.png
+denoised_435.png
+denoised_436.png
+denoised_437.png
+denoised_438.png
+denoised_439.png
+denoised_440.png
+denoised_441.png
+denoised_442.png
+denoised_443.png
+denoised_444.png
+denoised_445.png
+denoised_446.png
+denoised_447.png
+denoised_448.png
+denoised_449.png
+denoised_450.png
+denoised_451.png
+denoised_452.png
+denoised_453.png
+denoised_454.png
+denoised_455.png
+denoised_456.png
+denoised_457.png
+denoised_458.png
+denoised_459.png
+denoised_460.png
+denoised_461.png
+denoised_462.png
+denoised_463.png
+denoised_464.png
+denoised_465.png
+denoised_466.png
+denoised_467.png
+denoised_468.png
+denoised_469.png
+denoised_470.png
+denoised_471.png
+denoised_472.png
+denoised_473.png
+denoised_474.png
+denoised_475.png
+denoised_476.png
+denoised_477.png
+denoised_478.png
+denoised_479.png
+denoised_480.png
+denoised_481.png
+denoised_482.png
+denoised_483.png
+denoised_484.png
+denoised_485.png
+denoised_486.png
+denoised_487.png
+denoised_488.png
+denoised_489.png
+denoised_490.png
+denoised_491.png
+denoised_492.png
+denoised_493.png
+denoised_494.png
+denoised_495.png
+denoised_496.png
+denoised_497.png
+denoised_498.png
+denoised_499.png
+denoised_500.png
+denoised_501.png
+denoised_502.png
+denoised_503.png
+denoised_504.png
+denoised_505.png
+denoised_506.png
+denoised_507.png
+denoised_508.png
+denoised_509.png
+denoised_510.png
+denoised_511.png
+denoised_512.png
+denoised_513.png
+denoised_514.png
+denoised_515.png
+denoised_516.png
+denoised_517.png
+denoised_518.png
+denoised_519.png
+denoised_520.png
+denoised_521.png
+denoised_522.png
+denoised_523.png
+denoised_524.png
+denoised_525.png
+denoised_526.png
+denoised_527.png
+denoised_528.png
+denoised_529.png
+denoised_530.png
+denoised_531.png
+denoised_532.png
+denoised_533.png
+denoised_534.png
+denoised_535.png
+denoised_536.png
+denoised_537.png
+denoised_538.png
+denoised_539.png
+denoised_540.png
+denoised_541.png
+denoised_542.png
+denoised_543.png
+denoised_544.png
+denoised_545.png
+denoised_546.png
+denoised_547.png
+denoised_548.png
+denoised_549.png
+denoised_550.png
+denoised_551.png
+denoised_552.png
+denoised_553.png
+denoised_554.png
+denoised_555.png
+denoised_556.png
+denoised_557.png
+denoised_558.png
+denoised_559.png
+denoised_560.png
+denoised_561.png
+denoised_562.png
+denoised_563.png
+denoised_564.png
+denoised_565.png
+denoised_566.png
+denoised_567.png
+denoised_568.png
+denoised_569.png
+denoised_570.png
+denoised_571.png
+denoised_572.png
+denoised_573.png
+denoised_574.png
+denoised_575.png
+denoised_576.png
+denoised_577.png
+denoised_578.png
+denoised_579.png
+denoised_580.png
+denoised_581.png
+denoised_582.png
+denoised_583.png
+denoised_584.png
+denoised_585.png
+denoised_586.png
+denoised_587.png
+denoised_588.png
+denoised_589.png
+denoised_590.png
+denoised_591.png
+denoised_592.png
+denoised_593.png
+denoised_594.png
+denoised_595.png
+denoised_596.png
+denoised_597.png
+denoised_598.png
+denoised_599.png
+denoised_600.png
+denoised_601.png
+denoised_602.png
+denoised_603.png
+denoised_604.png
+denoised_605.png
+denoised_606.png
+denoised_607.png
+denoised_608.png
+denoised_609.png
+denoised_610.png
+denoised_611.png
+denoised_612.png
+denoised_613.png
+denoised_614.png
+denoised_615.png
+denoised_616.png
+denoised_617.png
+denoised_618.png
+denoised_619.png
+denoised_620.png
+denoised_621.png
+denoised_622.png
+denoised_623.png
+denoised_624.png
+denoised_625.png
+denoised_626.png
+denoised_627.png
+denoised_628.png
+denoised_629.png
+denoised_630.png
+denoised_631.png
+denoised_632.png
+denoised_633.png
+denoised_634.png
+denoised_635.png
+denoised_636.png
+denoised_637.png
+denoised_638.png
+denoised_639.png
+denoised_640.png
+denoised_641.png
+denoised_642.png
+denoised_643.png
+denoised_644.png
+denoised_645.png
+denoised_646.png
+denoised_647.png
+denoised_648.png
+denoised_649.png
+denoised_650.png
+denoised_651.png
+denoised_652.png
+denoised_653.png
+denoised_654.png
+denoised_655.png
+denoised_656.png
+denoised_657.png
+denoised_658.png
+denoised_659.png
+denoised_660.png
+denoised_661.png
+denoised_662.png
+denoised_663.png
+denoised_664.png
+denoised_665.png
+denoised_666.png
+denoised_667.png
+denoised_668.png
+denoised_669.png
+denoised_670.png
+denoised_671.png
+denoised_672.png
+denoised_673.png
+denoised_674.png
+denoised_675.png
+denoised_676.png
+denoised_677.png
+denoised_678.png
+denoised_679.png
+denoised_680.png
+denoised_681.png
+denoised_682.png
+denoised_683.png
+denoised_684.png
+denoised_685.png
+denoised_686.png
+denoised_687.png
+denoised_688.png
+denoised_689.png
+denoised_690.png
+denoised_691.png
+denoised_692.png
+denoised_693.png
+denoised_694.png
+denoised_695.png
+denoised_696.png
+denoised_697.png
+denoised_698.png
+denoised_699.png
+denoised_700.png
+denoised_701.png
+denoised_702.png
+denoised_703.png
+denoised_704.png
+denoised_705.png
+denoised_706.png
+denoised_707.png
+denoised_708.png
+denoised_709.png
+denoised_710.png
+denoised_711.png
+denoised_712.png
+denoised_713.png
+denoised_714.png
+denoised_715.png
+denoised_716.png
+denoised_717.png
+denoised_718.png
+denoised_719.png
+denoised_720.png
+denoised_721.png
+denoised_722.png
+denoised_723.png
+denoised_724.png
+denoised_725.png
+denoised_726.png
+denoised_727.png
+denoised_728.png
+denoised_729.png
+denoised_730.png
+denoised_731.png
+denoised_732.png
+denoised_733.png
+denoised_734.png
+denoised_735.png
+denoised_736.png
+denoised_737.png
+denoised_738.png
+denoised_739.png
+denoised_740.png
+denoised_741.png
+denoised_742.png
+denoised_743.png
+denoised_744.png
+denoised_745.png
+denoised_746.png
+denoised_747.png
+denoised_748.png
+denoised_749.png
+denoised_750.png
+denoised_751.png
+denoised_752.png
+denoised_753.png
+denoised_754.png
+denoised_755.png
+denoised_756.png
+denoised_757.png
+denoised_758.png
+denoised_759.png
+denoised_760.png
+denoised_761.png
+denoised_762.png
+denoised_763.png
+denoised_764.png
+denoised_765.png
+denoised_766.png
+denoised_767.png
+denoised_768.png
+denoised_769.png
+denoised_770.png
+(770, 216, 64)
+[10, 12, 14, 15, 18, 23, 25, 29, 30, 32, 34, 37, 39, 41, 42, 45, 46, 48, 56, 59, 61, 62, 69, 70, 71, 79, 87, 89, 91, 94, 96, 97, 99, 106, 111, 115, 116, 122, 126, 127, 138, 139, 141, 146, 147, 149, 150, 151, 154, 156, 160, 166, 169, 172, 174, 176, 177, 182, 185, 187, 188, 197, 198, 200, 202, 205, 207, 209, 214, 215, 220, 221, 228, 229, 230, 232, 234, 235, 238, 240, 242, 243, 246, 247, 249, 252, 255, 258, 263, 264, 265, 266, 268, 269, 270, 274, 275, 276, 279, 281, 287, 292, 294, 297, 301, 303, 304, 307, 313, 315, 316, 319, 321, 326, 327, 329, 331, 334, 339, 342, 351, 356, 357, 362, 365, 366, 367, 368, 369, 372, 379, 381, 384, 391, 394, 397, 400, 403, 410, 415, 416, 420, 421, 422, 423, 425, 428, 430, 434, 436, 439, 444, 447, 452, 453, 459, 461, 463, 465, 466, 469, 470, 474, 475, 482, 483, 484, 486, 487, 489, 490, 493, 494, 496, 499, 501, 502, 505, 507, 511, 513, 515, 517, 518, 522, 524, 525, 531, 532, 539, 540, 545, 546, 547, 553, 556, 557, 566, 570, 577, 580, 581, 582, 586, 595, 596, 597, 598, 599, 601, 610, 612, 613, 614, 617, 618, 620, 622, 623, 627, 631, 644, 645, 649, 655, 656, 658, 660, 662, 663, 670, 672, 674, 675, 676, 680, 682, 683, 684, 685, 687, 688, 691, 698, 699, 702, 703, 704, 709, 710, 713, 715, 718, 724, 727, 731, 732, 733, 735, 737, 738, 749, 750, 751, 753, 755, 756, 759, 763, 765]
+2500
+(2500, 216, 64, 8)
+__________________________________________________________________________________________________
+Layer (type)                    Output Shape         Param #     Connected to                     
+==================================================================================================
+input_1 (InputLayer)            (None, 216, 64, 1)   0                                            
+__________________________________________________________________________________________________
+conv2d_1 (Conv2D)               (None, 216, 64, 64)  640         input_1[0][0]                    
+__________________________________________________________________________________________________
+batch_normalization_1 (BatchNor (None, 216, 64, 64)  256         conv2d_1[0][0]                   
+__________________________________________________________________________________________________
+activation_1 (Activation)       (None, 216, 64, 64)  0           batch_normalization_1[0][0]      
+__________________________________________________________________________________________________
+max_pooling2d_1 (MaxPooling2D)  (None, 108, 32, 64)  0           activation_1[0][0]               
+__________________________________________________________________________________________________
+conv2d_2 (Conv2D)               (None, 108, 32, 128) 73856       max_pooling2d_1[0][0]            
+__________________________________________________________________________________________________
+batch_normalization_2 (BatchNor (None, 108, 32, 128) 512         conv2d_2[0][0]                   
+__________________________________________________________________________________________________
+activation_2 (Activation)       (None, 108, 32, 128) 0           batch_normalization_2[0][0]      
+__________________________________________________________________________________________________
+max_pooling2d_2 (MaxPooling2D)  (None, 54, 16, 128)  0           activation_2[0][0]               
+__________________________________________________________________________________________________
+conv2d_3 (Conv2D)               (None, 54, 16, 128)  147584      max_pooling2d_2[0][0]            
+__________________________________________________________________________________________________
+batch_normalization_3 (BatchNor (None, 54, 16, 128)  512         conv2d_3[0][0]                   
+__________________________________________________________________________________________________
+activation_3 (Activation)       (None, 54, 16, 128)  0           batch_normalization_3[0][0]      
+__________________________________________________________________________________________________
+conv_dil_1 (Conv2D)             (None, 54, 16, 128)  147584      activation_3[0][0]               
+__________________________________________________________________________________________________
+batch_normalization_4 (BatchNor (None, 54, 16, 128)  512         conv_dil_1[0][0]                 
+__________________________________________________________________________________________________
+activation_4 (Activation)       (None, 54, 16, 128)  0           batch_normalization_4[0][0]      
+__________________________________________________________________________________________________
+conv_dil_2 (Conv2D)             (None, 54, 16, 128)  147584      activation_4[0][0]               
+__________________________________________________________________________________________________
+batch_normalization_5 (BatchNor (None, 54, 16, 128)  512         conv_dil_2[0][0]                 
+__________________________________________________________________________________________________
+activation_5 (Activation)       (None, 54, 16, 128)  0           batch_normalization_5[0][0]      
+__________________________________________________________________________________________________
+conv_dil_3 (Conv2D)             (None, 54, 16, 128)  147584      activation_5[0][0]               
+__________________________________________________________________________________________________
+dropout_1 (Dropout)             (None, 54, 16, 128)  0           max_pooling2d_2[0][0]            
+__________________________________________________________________________________________________
+batch_normalization_6 (BatchNor (None, 54, 16, 128)  512         conv_dil_3[0][0]                 
+__________________________________________________________________________________________________
+skip_conv_1 (Conv2D)            (None, 54, 16, 128)  147584      dropout_1[0][0]                  
+__________________________________________________________________________________________________
+activation_6 (Activation)       (None, 54, 16, 128)  0           batch_normalization_6[0][0]      
+__________________________________________________________________________________________________
+batch_normalization_7 (BatchNor (None, 54, 16, 128)  512         skip_conv_1[0][0]                
+__________________________________________________________________________________________________
+dropout_2 (Dropout)             (None, 54, 16, 128)  0           activation_6[0][0]               
+__________________________________________________________________________________________________
+activation_7 (Activation)       (None, 54, 16, 128)  0           batch_normalization_7[0][0]      
+__________________________________________________________________________________________________
+add_1 (Add)                     (None, 54, 16, 128)  0           dropout_2[0][0]                  
+                                                                 activation_7[0][0]               
+__________________________________________________________________________________________________
+up_sampling2d_1 (UpSampling2D)  (None, 108, 32, 128) 0           add_1[0][0]                      
+__________________________________________________________________________________________________
+conv2d_4 (Conv2D)               (None, 108, 32, 128) 147584      up_sampling2d_1[0][0]            
+__________________________________________________________________________________________________
+skip_conv_2 (Conv2D)            (None, 108, 32, 128) 73856       max_pooling2d_1[0][0]            
+__________________________________________________________________________________________________
+batch_normalization_8 (BatchNor (None, 108, 32, 128) 512         conv2d_4[0][0]                   
+__________________________________________________________________________________________________
+batch_normalization_9 (BatchNor (None, 108, 32, 128) 512         skip_conv_2[0][0]                
+__________________________________________________________________________________________________
+activation_8 (Activation)       (None, 108, 32, 128) 0           batch_normalization_8[0][0]      
+__________________________________________________________________________________________________
+activation_9 (Activation)       (None, 108, 32, 128) 0           batch_normalization_9[0][0]      
+__________________________________________________________________________________________________
+add_2 (Add)                     (None, 108, 32, 128) 0           activation_8[0][0]               
+                                                                 activation_9[0][0]               
+__________________________________________________________________________________________________
+up_sampling2d_2 (UpSampling2D)  (None, 216, 64, 128) 0           add_2[0][0]                      
+__________________________________________________________________________________________________
+conv2d_5 (Conv2D)               (None, 216, 64, 64)  73792       up_sampling2d_2[0][0]            
+__________________________________________________________________________________________________
+batch_normalization_10 (BatchNo (None, 216, 64, 64)  256         conv2d_5[0][0]                   
+__________________________________________________________________________________________________
+activation_10 (Activation)      (None, 216, 64, 64)  0           batch_normalization_10[0][0]     
+__________________________________________________________________________________________________
+dropout_3 (Dropout)             (None, 216, 64, 64)  0           activation_10[0][0]              
+__________________________________________________________________________________________________
+conv2d_6 (Conv2D)               (None, 216, 64, 8)   520         dropout_3[0][0]                  
+__________________________________________________________________________________________________
+reshape_1 (Reshape)             (None, 13824, 8)     0           conv2d_6[0][0]                   
+__________________________________________________________________________________________________
+activation_11 (Activation)      (None, 13824, 8)     0           reshape_1[0][0]                  
+==================================================================================================
+Total params: 1,112,776
+Trainable params: 1,110,472
+Non-trainable params: 2,304
+__________________________________________________________________________________________________
+Train on 2500 samples, validate on 270 samples
+Epoch 1/200
+Epoch 00001: val_loss improved from inf to -0.47644, saving model to exp1.hdf5
+ - 70s - loss: -3.5352e+00 - acc: 0.7001 - dice_coef: 0.6521 - val_loss: -4.7644e-01 - val_acc: 0.5750 - val_dice_coef: 0.5426
+Epoch 2/200
+Epoch 00002: val_loss improved from -0.47644 to -0.61451, saving model to exp1.hdf5
+ - 41s - loss: -4.6043e+00 - acc: 0.8642 - dice_coef: 0.8457 - val_loss: -6.1451e-01 - val_acc: 0.7043 - val_dice_coef: 0.6808
+Epoch 3/200
+Epoch 00003: val_loss improved from -0.61451 to -0.66561, saving model to exp1.hdf5
+ - 41s - loss: -4.7637e+00 - acc: 0.8900 - dice_coef: 0.8745 - val_loss: -6.6561e-01 - val_acc: 0.7451 - val_dice_coef: 0.7320
+Epoch 4/200
+Epoch 00004: val_loss improved from -0.66561 to -0.69762, saving model to exp1.hdf5
+ - 41s - loss: -4.8470e+00 - acc: 0.9015 - dice_coef: 0.8896 - val_loss: -6.9762e-01 - val_acc: 0.7754 - val_dice_coef: 0.7641
+Epoch 5/200
+Epoch 00005: val_loss improved from -0.69762 to -0.83648, saving model to exp1.hdf5
+ - 41s - loss: -4.8911e+00 - acc: 0.9085 - dice_coef: 0.8975 - val_loss: -8.3648e-01 - val_acc: 0.9146 - val_dice_coef: 0.9030
+Epoch 6/200
+Epoch 00006: val_loss improved from -0.83648 to -0.84975, saving model to exp1.hdf5
+ - 41s - loss: -4.9600e+00 - acc: 0.9213 - dice_coef: 0.9100 - val_loss: -8.4975e-01 - val_acc: 0.9252 - val_dice_coef: 0.9163
+Epoch 7/200
+Epoch 00007: val_loss improved from -0.84975 to -0.86305, saving model to exp1.hdf5
+ - 42s - loss: -5.0065e+00 - acc: 0.9285 - dice_coef: 0.9184 - val_loss: -8.6305e-01 - val_acc: 0.9338 - val_dice_coef: 0.9296
+Epoch 8/200
+Epoch 00008: val_loss improved from -0.86305 to -0.86653, saving model to exp1.hdf5
+ - 41s - loss: -5.0367e+00 - acc: 0.9327 - dice_coef: 0.9238 - val_loss: -8.6653e-01 - val_acc: 0.9349 - val_dice_coef: 0.9331
+Epoch 9/200
+Epoch 00009: val_loss improved from -0.86653 to -0.86814, saving model to exp1.hdf5
+ - 41s - loss: -5.0543e+00 - acc: 0.9348 - dice_coef: 0.9270 - val_loss: -8.6814e-01 - val_acc: 0.9378 - val_dice_coef: 0.9347
+Epoch 10/200
+Epoch 00010: val_loss improved from -0.86814 to -0.86856, saving model to exp1.hdf5
+ - 41s - loss: -5.0706e+00 - acc: 0.9370 - dice_coef: 0.9300 - val_loss: -8.6856e-01 - val_acc: 0.9373 - val_dice_coef: 0.9351
+Epoch 11/200
+Epoch 00011: val_loss improved from -0.86856 to -0.87174, saving model to exp1.hdf5
+ - 41s - loss: -5.0848e+00 - acc: 0.9389 - dice_coef: 0.9325 - val_loss: -8.7174e-01 - val_acc: 0.9404 - val_dice_coef: 0.9382
+Epoch 12/200
+Epoch 00012: val_loss did not improve
+ - 41s - loss: -5.0956e+00 - acc: 0.9404 - dice_coef: 0.9345 - val_loss: -8.6501e-01 - val_acc: 0.9330 - val_dice_coef: 0.9315
+Epoch 13/200
+Epoch 00013: val_loss did not improve
+ - 41s - loss: -5.1019e+00 - acc: 0.9411 - dice_coef: 0.9356 - val_loss: -8.6785e-01 - val_acc: 0.9369 - val_dice_coef: 0.9343
+Epoch 14/200
+Epoch 00014: val_loss improved from -0.87174 to -0.87265, saving model to exp1.hdf5
+ - 41s - loss: -5.1120e+00 - acc: 0.9426 - dice_coef: 0.9374 - val_loss: -8.7265e-01 - val_acc: 0.9407 - val_dice_coef: 0.9390
+Epoch 15/200
+Epoch 00015: val_loss did not improve
+ - 41s - loss: -5.1195e+00 - acc: 0.9436 - dice_coef: 0.9388 - val_loss: -8.7009e-01 - val_acc: 0.9380 - val_dice_coef: 0.9364
+Epoch 16/200
+Epoch 00016: val_loss improved from -0.87265 to -0.87426, saving model to exp1.hdf5
+ - 41s - loss: -5.1250e+00 - acc: 0.9444 - dice_coef: 0.9398 - val_loss: -8.7426e-01 - val_acc: 0.9421 - val_dice_coef: 0.9406
+Epoch 17/200
+Epoch 00017: val_loss did not improve
+ - 41s - loss: -5.1310e+00 - acc: 0.9452 - dice_coef: 0.9408 - val_loss: -8.7066e-01 - val_acc: 0.9380 - val_dice_coef: 0.9369
+Epoch 18/200
+Epoch 00018: val_loss did not improve
+ - 41s - loss: -5.1300e+00 - acc: 0.9449 - dice_coef: 0.9406 - val_loss: -8.6637e-01 - val_acc: 0.9341 - val_dice_coef: 0.9326
+Epoch 19/200
+Epoch 00019: val_loss improved from -0.87426 to -0.87629, saving model to exp1.hdf5
+ - 41s - loss: -5.1402e+00 - acc: 0.9465 - dice_coef: 0.9425 - val_loss: -8.7629e-01 - val_acc: 0.9435 - val_dice_coef: 0.9424
+Epoch 20/200
+Epoch 00020: val_loss improved from -0.87629 to -0.87679, saving model to exp1.hdf5
+ - 41s - loss: -5.1461e+00 - acc: 0.9473 - dice_coef: 0.9435 - val_loss: -8.7679e-01 - val_acc: 0.9440 - val_dice_coef: 0.9429
+Epoch 21/200
+Epoch 00021: val_loss improved from -0.87679 to -0.87835, saving model to exp1.hdf5
+ - 41s - loss: -5.1506e+00 - acc: 0.9480 - dice_coef: 0.9443 - val_loss: -8.7835e-01 - val_acc: 0.9455 - val_dice_coef: 0.9444
+Epoch 22/200
+Epoch 00022: val_loss did not improve
+ - 41s - loss: -5.1554e+00 - acc: 0.9487 - dice_coef: 0.9452 - val_loss: -8.7486e-01 - val_acc: 0.9419 - val_dice_coef: 0.9409
+Epoch 23/200
+Epoch 00023: val_loss did not improve
+ - 41s - loss: -5.1581e+00 - acc: 0.9491 - dice_coef: 0.9457 - val_loss: -8.6882e-01 - val_acc: 0.9360 - val_dice_coef: 0.9348
+Epoch 24/200
+Epoch 00024: val_loss did not improve
+ - 41s - loss: -5.1607e+00 - acc: 0.9494 - dice_coef: 0.9461 - val_loss: -8.7760e-01 - val_acc: 0.9444 - val_dice_coef: 0.9435
+Epoch 25/200
+Epoch 00025: val_loss did not improve
+ - 41s - loss: -5.1649e+00 - acc: 0.9500 - dice_coef: 0.9469 - val_loss: -8.7660e-01 - val_acc: 0.9432 - val_dice_coef: 0.9424
+Epoch 26/200
+Epoch 00026: val_loss did not improve
+ - 41s - loss: -5.1672e+00 - acc: 0.9504 - dice_coef: 0.9473 - val_loss: -8.7781e-01 - val_acc: 0.9445 - val_dice_coef: 0.9436
+Epoch 27/200
+Epoch 00027: val_loss did not improve
+ - 41s - loss: -5.1707e+00 - acc: 0.9509 - dice_coef: 0.9479 - val_loss: -8.7777e-01 - val_acc: 0.9443 - val_dice_coef: 0.9435
+Epoch 28/200
+Epoch 00028: val_loss did not improve
+ - 41s - loss: -5.1738e+00 - acc: 0.9514 - dice_coef: 0.9484 - val_loss: -8.7796e-01 - val_acc: 0.9443 - val_dice_coef: 0.9436
+Epoch 29/200
+Epoch 00029: val_loss improved from -0.87835 to -0.87979, saving model to exp1.hdf5
+ - 41s - loss: -5.1769e+00 - acc: 0.9519 - dice_coef: 0.9490 - val_loss: -8.7979e-01 - val_acc: 0.9461 - val_dice_coef: 0.9454
+Epoch 30/200
+Epoch 00030: val_loss did not improve
+ - 41s - loss: -5.1789e+00 - acc: 0.9522 - dice_coef: 0.9494 - val_loss: -8.7874e-01 - val_acc: 0.9450 - val_dice_coef: 0.9443
+Epoch 31/200
+Epoch 00031: val_loss improved from -0.87979 to -0.88013, saving model to exp1.hdf5
+ - 41s - loss: -5.1807e+00 - acc: 0.9525 - dice_coef: 0.9497 - val_loss: -8.8013e-01 - val_acc: 0.9464 - val_dice_coef: 0.9457
+Epoch 32/200
+Epoch 00032: val_loss did not improve
+ - 41s - loss: -5.1821e+00 - acc: 0.9527 - dice_coef: 0.9500 - val_loss: -8.7664e-01 - val_acc: 0.9430 - val_dice_coef: 0.9421
+Epoch 33/200
+Epoch 00033: val_loss did not improve
+ - 41s - loss: -5.1806e+00 - acc: 0.9524 - dice_coef: 0.9496 - val_loss: -8.7930e-01 - val_acc: 0.9455 - val_dice_coef: 0.9448
+Epoch 34/200
+Epoch 00034: val_loss did not improve
+ - 41s - loss: -5.1849e+00 - acc: 0.9531 - dice_coef: 0.9504 - val_loss: -8.7983e-01 - val_acc: 0.9460 - val_dice_coef: 0.9452
+Epoch 35/200
+Epoch 00035: val_loss did not improve
+ - 41s - loss: -5.1861e+00 - acc: 0.9533 - dice_coef: 0.9506 - val_loss: -8.8013e-01 - val_acc: 0.9462 - val_dice_coef: 0.9455
+Epoch 36/200
+Epoch 00036: val_loss did not improve
+ - 41s - loss: -5.1877e+00 - acc: 0.9535 - dice_coef: 0.9509 - val_loss: -8.7778e-01 - val_acc: 0.9440 - val_dice_coef: 0.9431
+Epoch 37/200
+Epoch 00037: val_loss did not improve
+ - 41s - loss: -5.1879e+00 - acc: 0.9536 - dice_coef: 0.9509 - val_loss: -8.7927e-01 - val_acc: 0.9453 - val_dice_coef: 0.9446
+Epoch 38/200
+Epoch 00038: val_loss did not improve
+ - 41s - loss: -5.1890e+00 - acc: 0.9537 - dice_coef: 0.9511 - val_loss: -8.8009e-01 - val_acc: 0.9460 - val_dice_coef: 0.9454
+Epoch 39/200
+Epoch 00039: val_loss improved from -0.88013 to -0.88023, saving model to exp1.hdf5
+ - 41s - loss: -5.1906e+00 - acc: 0.9540 - dice_coef: 0.9514 - val_loss: -8.8023e-01 - val_acc: 0.9462 - val_dice_coef: 0.9455
+Epoch 40/200
+Epoch 00040: val_loss improved from -0.88023 to -0.88045, saving model to exp1.hdf5
+ - 41s - loss: -5.1923e+00 - acc: 0.9543 - dice_coef: 0.9517 - val_loss: -8.8045e-01 - val_acc: 0.9464 - val_dice_coef: 0.9457
+Epoch 41/200
+Epoch 00041: val_loss did not improve
+ - 41s - loss: -5.1931e+00 - acc: 0.9544 - dice_coef: 0.9518 - val_loss: -8.8000e-01 - val_acc: 0.9459 - val_dice_coef: 0.9452
+Epoch 42/200
+Epoch 00042: val_loss did not improve
+ - 41s - loss: -5.1937e+00 - acc: 0.9545 - dice_coef: 0.9519 - val_loss: -8.7807e-01 - val_acc: 0.9441 - val_dice_coef: 0.9433
+Epoch 43/200
+Epoch 00043: val_loss improved from -0.88045 to -0.88051, saving model to exp1.hdf5
+ - 41s - loss: -5.1925e+00 - acc: 0.9543 - dice_coef: 0.9517 - val_loss: -8.8051e-01 - val_acc: 0.9464 - val_dice_coef: 0.9457
+Epoch 44/200
+Epoch 00044: val_loss did not improve
+ - 41s - loss: -5.1941e+00 - acc: 0.9545 - dice_coef: 0.9520 - val_loss: -8.7875e-01 - val_acc: 0.9446 - val_dice_coef: 0.9439
+Epoch 45/200
+Epoch 00045: val_loss improved from -0.88051 to -0.88067, saving model to exp1.hdf5
+ - 41s - loss: -5.1937e+00 - acc: 0.9545 - dice_coef: 0.9520 - val_loss: -8.8067e-01 - val_acc: 0.9465 - val_dice_coef: 0.9458
+Epoch 46/200
+Epoch 00046: val_loss did not improve
+ - 41s - loss: -5.1958e+00 - acc: 0.9548 - dice_coef: 0.9523 - val_loss: -8.7950e-01 - val_acc: 0.9454 - val_dice_coef: 0.9446
+Epoch 47/200
+Epoch 00047: val_loss did not improve
+ - 41s - loss: -5.1958e+00 - acc: 0.9548 - dice_coef: 0.9523 - val_loss: -8.8057e-01 - val_acc: 0.9463 - val_dice_coef: 0.9457
+Epoch 48/200
+Epoch 00048: val_loss improved from -0.88067 to -0.88085, saving model to exp1.hdf5
+ - 42s - loss: -5.1964e+00 - acc: 0.9549 - dice_coef: 0.9524 - val_loss: -8.8085e-01 - val_acc: 0.9466 - val_dice_coef: 0.9460
+Epoch 49/200
+Epoch 00049: val_loss did not improve
+ - 41s - loss: -5.1977e+00 - acc: 0.9551 - dice_coef: 0.9526 - val_loss: -8.8079e-01 - val_acc: 0.9466 - val_dice_coef: 0.9459
+Epoch 50/200
+Epoch 00050: val_loss improved from -0.88085 to -0.88099, saving model to exp1.hdf5
+ - 41s - loss: -5.1974e+00 - acc: 0.9551 - dice_coef: 0.9526 - val_loss: -8.8099e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 51/200
+Epoch 00051: val_loss did not improve
+ - 41s - loss: -5.1981e+00 - acc: 0.9552 - dice_coef: 0.9527 - val_loss: -8.8083e-01 - val_acc: 0.9465 - val_dice_coef: 0.9459
+Epoch 52/200
+Epoch 00052: val_loss did not improve
+ - 41s - loss: -5.1993e+00 - acc: 0.9554 - dice_coef: 0.9529 - val_loss: -8.8075e-01 - val_acc: 0.9464 - val_dice_coef: 0.9458
+Epoch 53/200
+Epoch 00053: val_loss improved from -0.88099 to -0.88099, saving model to exp1.hdf5
+ - 41s - loss: -5.1995e+00 - acc: 0.9553 - dice_coef: 0.9530 - val_loss: -8.8099e-01 - val_acc: 0.9467 - val_dice_coef: 0.9460
+Epoch 54/200
+Epoch 00054: val_loss improved from -0.88099 to -0.88138, saving model to exp1.hdf5
+ - 41s - loss: -5.2000e+00 - acc: 0.9555 - dice_coef: 0.9531 - val_loss: -8.8138e-01 - val_acc: 0.9470 - val_dice_coef: 0.9464
+Epoch 55/200
+Epoch 00055: val_loss did not improve
+ - 41s - loss: -5.1995e+00 - acc: 0.9554 - dice_coef: 0.9530 - val_loss: -8.7972e-01 - val_acc: 0.9454 - val_dice_coef: 0.9447
+Epoch 56/200
+Epoch 00056: val_loss did not improve
+ - 41s - loss: -5.2006e+00 - acc: 0.9555 - dice_coef: 0.9531 - val_loss: -8.8075e-01 - val_acc: 0.9463 - val_dice_coef: 0.9457
+Epoch 57/200
+Epoch 00057: val_loss improved from -0.88138 to -0.88166, saving model to exp1.hdf5
+ - 41s - loss: -5.2014e+00 - acc: 0.9557 - dice_coef: 0.9533 - val_loss: -8.8166e-01 - val_acc: 0.9472 - val_dice_coef: 0.9466
+Epoch 58/200
+Epoch 00058: val_loss did not improve
+ - 41s - loss: -5.2013e+00 - acc: 0.9556 - dice_coef: 0.9533 - val_loss: -8.8075e-01 - val_acc: 0.9463 - val_dice_coef: 0.9457
+Epoch 59/200
+Epoch 00059: val_loss did not improve
+ - 41s - loss: -5.2026e+00 - acc: 0.9559 - dice_coef: 0.9535 - val_loss: -8.8025e-01 - val_acc: 0.9457 - val_dice_coef: 0.9452
+Epoch 60/200
+Epoch 00060: val_loss did not improve
+ - 41s - loss: -5.2026e+00 - acc: 0.9559 - dice_coef: 0.9535 - val_loss: -8.8033e-01 - val_acc: 0.9458 - val_dice_coef: 0.9452
+Epoch 61/200
+Epoch 00061: val_loss did not improve
+ - 41s - loss: -5.2028e+00 - acc: 0.9559 - dice_coef: 0.9535 - val_loss: -8.8056e-01 - val_acc: 0.9461 - val_dice_coef: 0.9454
+Epoch 62/200
+Epoch 00062: val_loss did not improve
+ - 41s - loss: -5.2041e+00 - acc: 0.9561 - dice_coef: 0.9538 - val_loss: -8.8079e-01 - val_acc: 0.9463 - val_dice_coef: 0.9456
+Epoch 63/200
+Epoch 00063: val_loss did not improve
+ - 41s - loss: -5.2042e+00 - acc: 0.9561 - dice_coef: 0.9538 - val_loss: -8.8112e-01 - val_acc: 0.9466 - val_dice_coef: 0.9459
+Epoch 64/200
+Epoch 00064: val_loss did not improve
+ - 41s - loss: -5.2047e+00 - acc: 0.9562 - dice_coef: 0.9539 - val_loss: -8.8087e-01 - val_acc: 0.9463 - val_dice_coef: 0.9457
+Epoch 65/200
+Epoch 00065: val_loss did not improve
+ - 41s - loss: -5.2053e+00 - acc: 0.9563 - dice_coef: 0.9540 - val_loss: -8.8102e-01 - val_acc: 0.9464 - val_dice_coef: 0.9458
+Epoch 66/200
+Epoch 00066: val_loss did not improve
+ - 41s - loss: -5.2062e+00 - acc: 0.9564 - dice_coef: 0.9541 - val_loss: -8.8102e-01 - val_acc: 0.9465 - val_dice_coef: 0.9458
+Epoch 67/200
+Epoch 00067: val_loss did not improve
+ - 41s - loss: -5.2063e+00 - acc: 0.9564 - dice_coef: 0.9541 - val_loss: -8.8126e-01 - val_acc: 0.9467 - val_dice_coef: 0.9460
+Epoch 68/200
+Epoch 00068: val_loss did not improve
+ - 41s - loss: -5.2070e+00 - acc: 0.9566 - dice_coef: 0.9543 - val_loss: -8.8137e-01 - val_acc: 0.9468 - val_dice_coef: 0.9461
+Epoch 69/200
+Epoch 00069: val_loss did not improve
+ - 41s - loss: -5.2069e+00 - acc: 0.9565 - dice_coef: 0.9543 - val_loss: -8.8138e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 70/200
+Epoch 00070: val_loss did not improve
+ - 41s - loss: -5.2076e+00 - acc: 0.9566 - dice_coef: 0.9544 - val_loss: -8.8142e-01 - val_acc: 0.9468 - val_dice_coef: 0.9462
+Epoch 71/200
+Epoch 00071: val_loss did not improve
+ - 41s - loss: -5.2077e+00 - acc: 0.9567 - dice_coef: 0.9544 - val_loss: -8.8125e-01 - val_acc: 0.9466 - val_dice_coef: 0.9460
+Epoch 72/200
+Epoch 00072: val_loss did not improve
+ - 41s - loss: -5.2079e+00 - acc: 0.9567 - dice_coef: 0.9545 - val_loss: -8.8139e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 73/200
+Epoch 00073: val_loss did not improve
+ - 41s - loss: -5.2081e+00 - acc: 0.9568 - dice_coef: 0.9545 - val_loss: -8.8120e-01 - val_acc: 0.9466 - val_dice_coef: 0.9459
+Epoch 74/200
+Epoch 00074: val_loss did not improve
+ - 41s - loss: -5.2077e+00 - acc: 0.9567 - dice_coef: 0.9544 - val_loss: -8.8124e-01 - val_acc: 0.9466 - val_dice_coef: 0.9460
+Epoch 75/200
+Epoch 00075: val_loss did not improve
+ - 41s - loss: -5.2085e+00 - acc: 0.9568 - dice_coef: 0.9545 - val_loss: -8.8136e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 76/200
+Epoch 00076: val_loss did not improve
+ - 41s - loss: -5.2082e+00 - acc: 0.9567 - dice_coef: 0.9545 - val_loss: -8.8116e-01 - val_acc: 0.9465 - val_dice_coef: 0.9459
+Epoch 77/200
+Epoch 00077: val_loss did not improve
+ - 41s - loss: -5.2085e+00 - acc: 0.9568 - dice_coef: 0.9545 - val_loss: -8.8140e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 78/200
+Epoch 00078: val_loss did not improve
+ - 41s - loss: -5.2077e+00 - acc: 0.9567 - dice_coef: 0.9544 - val_loss: -8.8126e-01 - val_acc: 0.9466 - val_dice_coef: 0.9460
+Epoch 79/200
+Epoch 00079: val_loss did not improve
+ - 41s - loss: -5.2087e+00 - acc: 0.9568 - dice_coef: 0.9546 - val_loss: -8.8136e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 80/200
+Epoch 00080: val_loss did not improve
+ - 41s - loss: -5.2086e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8137e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 81/200
+Epoch 00081: val_loss did not improve
+ - 41s - loss: -5.2089e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8136e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 82/200
+Epoch 00082: val_loss did not improve
+ - 41s - loss: -5.2090e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8135e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 83/200
+Epoch 00083: val_loss did not improve
+ - 41s - loss: -5.2093e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8147e-01 - val_acc: 0.9468 - val_dice_coef: 0.9462
+Epoch 84/200
+Epoch 00084: val_loss did not improve
+ - 41s - loss: -5.2092e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8140e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 85/200
+Epoch 00085: val_loss did not improve
+ - 41s - loss: -5.2090e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8134e-01 - val_acc: 0.9467 - val_dice_coef: 0.9460
+Epoch 86/200
+Epoch 00086: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8134e-01 - val_acc: 0.9466 - val_dice_coef: 0.9460
+Epoch 87/200
+Epoch 00087: val_loss did not improve
+ - 41s - loss: -5.2090e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8136e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 88/200
+Epoch 00088: val_loss did not improve
+ - 41s - loss: -5.2093e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 89/200
+Epoch 00089: val_loss did not improve
+ - 41s - loss: -5.2090e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8148e-01 - val_acc: 0.9468 - val_dice_coef: 0.9462
+Epoch 90/200
+Epoch 00090: val_loss did not improve
+ - 41s - loss: -5.2099e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 91/200
+Epoch 00091: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8141e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 92/200
+Epoch 00092: val_loss did not improve
+ - 41s - loss: -5.2092e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 93/200
+Epoch 00093: val_loss did not improve
+ - 41s - loss: -5.2092e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 94/200
+Epoch 00094: val_loss did not improve
+ - 41s - loss: -5.2093e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 95/200
+Epoch 00095: val_loss did not improve
+ - 41s - loss: -5.2092e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 96/200
+Epoch 00096: val_loss did not improve
+ - 41s - loss: -5.2088e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 97/200
+Epoch 00097: val_loss did not improve
+ - 41s - loss: -5.2091e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 98/200
+Epoch 00098: val_loss did not improve
+ - 41s - loss: -5.2093e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 99/200
+Epoch 00099: val_loss did not improve
+ - 41s - loss: -5.2096e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 100/200
+Epoch 00100: val_loss did not improve
+ - 41s - loss: -5.2097e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 101/200
+Epoch 00101: val_loss did not improve
+ - 41s - loss: -5.2091e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8146e-01 - val_acc: 0.9468 - val_dice_coef: 0.9462
+Epoch 102/200
+Epoch 00102: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 103/200
+Epoch 00103: val_loss did not improve
+ - 41s - loss: -5.2098e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8141e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 104/200
+Epoch 00104: val_loss did not improve
+ - 41s - loss: -5.2095e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 105/200
+Epoch 00105: val_loss did not improve
+ - 41s - loss: -5.2095e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 106/200
+Epoch 00106: val_loss did not improve
+ - 41s - loss: -5.2095e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8141e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 107/200
+Epoch 00107: val_loss did not improve
+ - 41s - loss: -5.2092e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8141e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 108/200
+Epoch 00108: val_loss did not improve
+ - 41s - loss: -5.2090e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8140e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 109/200
+Epoch 00109: val_loss did not improve
+ - 41s - loss: -5.2095e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 110/200
+Epoch 00110: val_loss did not improve
+ - 41s - loss: -5.2098e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 111/200
+Epoch 00111: val_loss did not improve
+ - 41s - loss: -5.2093e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 112/200
+Epoch 00112: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 113/200
+Epoch 00113: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8146e-01 - val_acc: 0.9468 - val_dice_coef: 0.9462
+Epoch 114/200
+Epoch 00114: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 115/200
+Epoch 00115: val_loss did not improve
+ - 41s - loss: -5.2096e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 116/200
+Epoch 00116: val_loss did not improve
+ - 41s - loss: -5.2092e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 117/200
+Epoch 00117: val_loss did not improve
+ - 41s - loss: -5.2101e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 118/200
+Epoch 00118: val_loss did not improve
+ - 41s - loss: -5.2093e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 119/200
+Epoch 00119: val_loss did not improve
+ - 41s - loss: -5.2095e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 120/200
+Epoch 00120: val_loss did not improve
+ - 41s - loss: -5.2099e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 121/200
+Epoch 00121: val_loss did not improve
+ - 41s - loss: -5.2096e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 122/200
+Epoch 00122: val_loss did not improve
+ - 41s - loss: -5.2090e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 123/200
+Epoch 00123: val_loss did not improve
+ - 41s - loss: -5.2092e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 124/200
+Epoch 00124: val_loss did not improve
+ - 41s - loss: -5.2097e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 125/200
+Epoch 00125: val_loss did not improve
+ - 41s - loss: -5.2098e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 126/200
+Epoch 00126: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 127/200
+Epoch 00127: val_loss did not improve
+ - 41s - loss: -5.2097e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 128/200
+Epoch 00128: val_loss did not improve
+ - 41s - loss: -5.2093e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 129/200
+Epoch 00129: val_loss did not improve
+ - 41s - loss: -5.2101e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 130/200
+Epoch 00130: val_loss did not improve
+ - 41s - loss: -5.2092e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 131/200
+Epoch 00131: val_loss did not improve
+ - 41s - loss: -5.2102e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 132/200
+Epoch 00132: val_loss did not improve
+ - 41s - loss: -5.2097e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 133/200
+Epoch 00133: val_loss did not improve
+ - 41s - loss: -5.2095e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 134/200
+Epoch 00134: val_loss did not improve
+ - 41s - loss: -5.2089e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 135/200
+Epoch 00135: val_loss did not improve
+ - 41s - loss: -5.2096e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 136/200
+Epoch 00136: val_loss did not improve
+ - 41s - loss: -5.2098e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 137/200
+Epoch 00137: val_loss did not improve
+ - 41s - loss: -5.2089e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 138/200
+Epoch 00138: val_loss did not improve
+ - 41s - loss: -5.2090e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 139/200
+Epoch 00139: val_loss did not improve
+ - 41s - loss: -5.2095e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 140/200
+Epoch 00140: val_loss did not improve
+ - 41s - loss: -5.2095e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 141/200
+Epoch 00141: val_loss did not improve
+ - 41s - loss: -5.2093e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 142/200
+Epoch 00142: val_loss did not improve
+ - 41s - loss: -5.2100e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 143/200
+Epoch 00143: val_loss did not improve
+ - 41s - loss: -5.2089e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 144/200
+Epoch 00144: val_loss did not improve
+ - 41s - loss: -5.2097e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 145/200
+Epoch 00145: val_loss did not improve
+ - 41s - loss: -5.2092e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 146/200
+Epoch 00146: val_loss did not improve
+ - 41s - loss: -5.2093e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 147/200
+Epoch 00147: val_loss did not improve
+ - 41s - loss: -5.2096e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 148/200
+Epoch 00148: val_loss did not improve
+ - 41s - loss: -5.2092e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 149/200
+Epoch 00149: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8146e-01 - val_acc: 0.9467 - val_dice_coef: 0.9462
+Epoch 150/200
+Epoch 00150: val_loss did not improve
+ - 41s - loss: -5.2092e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 151/200
+Epoch 00151: val_loss did not improve
+ - 41s - loss: -5.2097e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 152/200
+Epoch 00152: val_loss did not improve
+ - 41s - loss: -5.2095e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 153/200
+Epoch 00153: val_loss did not improve
+ - 41s - loss: -5.2099e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 154/200
+Epoch 00154: val_loss did not improve
+ - 41s - loss: -5.2096e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 155/200
+Epoch 00155: val_loss did not improve
+ - 41s - loss: -5.2099e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8141e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 156/200
+Epoch 00156: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 157/200
+Epoch 00157: val_loss did not improve
+ - 41s - loss: -5.2101e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 158/200
+Epoch 00158: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 159/200
+Epoch 00159: val_loss did not improve
+ - 41s - loss: -5.2098e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8141e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 160/200
+Epoch 00160: val_loss did not improve
+ - 41s - loss: -5.2099e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 161/200
+Epoch 00161: val_loss did not improve
+ - 41s - loss: -5.2096e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 162/200
+Epoch 00162: val_loss did not improve
+ - 41s - loss: -5.2101e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 163/200
+Epoch 00163: val_loss did not improve
+ - 41s - loss: -5.2101e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 164/200
+Epoch 00164: val_loss did not improve
+ - 41s - loss: -5.2091e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 165/200
+Epoch 00165: val_loss did not improve
+ - 41s - loss: -5.2098e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 166/200
+Epoch 00166: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9468 - val_dice_coef: 0.9461
+Epoch 167/200
+Epoch 00167: val_loss did not improve
+ - 41s - loss: -5.2097e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8146e-01 - val_acc: 0.9468 - val_dice_coef: 0.9462
+Epoch 168/200
+Epoch 00168: val_loss did not improve
+ - 41s - loss: -5.2097e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8146e-01 - val_acc: 0.9468 - val_dice_coef: 0.9462
+Epoch 169/200
+Epoch 00169: val_loss did not improve
+ - 41s - loss: -5.2092e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 170/200
+Epoch 00170: val_loss did not improve
+ - 41s - loss: -5.2098e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 171/200
+Epoch 00171: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 172/200
+Epoch 00172: val_loss did not improve
+ - 41s - loss: -5.2092e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 173/200
+Epoch 00173: val_loss did not improve
+ - 41s - loss: -5.2091e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 174/200
+Epoch 00174: val_loss did not improve
+ - 41s - loss: -5.2102e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8146e-01 - val_acc: 0.9467 - val_dice_coef: 0.9462
+Epoch 175/200
+Epoch 00175: val_loss did not improve
+ - 41s - loss: -5.2096e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 176/200
+Epoch 00176: val_loss did not improve
+ - 41s - loss: -5.2089e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 177/200
+Epoch 00177: val_loss did not improve
+ - 41s - loss: -5.2095e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9468 - val_dice_coef: 0.9461
+Epoch 178/200
+Epoch 00178: val_loss did not improve
+ - 41s - loss: -5.2096e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 179/200
+Epoch 00179: val_loss did not improve
+ - 41s - loss: -5.2101e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 180/200
+Epoch 00180: val_loss did not improve
+ - 41s - loss: -5.2096e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8147e-01 - val_acc: 0.9468 - val_dice_coef: 0.9462
+Epoch 181/200
+Epoch 00181: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 182/200
+Epoch 00182: val_loss did not improve
+ - 41s - loss: -5.2097e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 183/200
+Epoch 00183: val_loss did not improve
+ - 41s - loss: -5.2088e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 184/200
+Epoch 00184: val_loss did not improve
+ - 41s - loss: -5.2096e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 185/200
+Epoch 00185: val_loss did not improve
+ - 41s - loss: -5.2096e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9468 - val_dice_coef: 0.9461
+Epoch 186/200
+Epoch 00186: val_loss did not improve
+ - 41s - loss: -5.2099e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 187/200
+Epoch 00187: val_loss did not improve
+ - 41s - loss: -5.2101e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 188/200
+Epoch 00188: val_loss did not improve
+ - 41s - loss: -5.2098e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8141e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 189/200
+Epoch 00189: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 190/200
+Epoch 00190: val_loss did not improve
+ - 41s - loss: -5.2095e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 191/200
+Epoch 00191: val_loss did not improve
+ - 41s - loss: -5.2098e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 192/200
+Epoch 00192: val_loss did not improve
+ - 41s - loss: -5.2089e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8142e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 193/200
+Epoch 00193: val_loss did not improve
+ - 41s - loss: -5.2099e+00 - acc: 0.9571 - dice_coef: 0.9548 - val_loss: -8.8145e-01 - val_acc: 0.9468 - val_dice_coef: 0.9461
+Epoch 194/200
+Epoch 00194: val_loss did not improve
+ - 41s - loss: -5.2099e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 195/200
+Epoch 00195: val_loss did not improve
+ - 41s - loss: -5.2090e+00 - acc: 0.9569 - dice_coef: 0.9546 - val_loss: -8.8144e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 196/200
+Epoch 00196: val_loss did not improve
+ - 41s - loss: -5.2095e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 197/200
+Epoch 00197: val_loss did not improve
+ - 41s - loss: -5.2095e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 198/200
+Epoch 00198: val_loss did not improve
+ - 41s - loss: -5.2099e+00 - acc: 0.9570 - dice_coef: 0.9548 - val_loss: -8.8145e-01 - val_acc: 0.9468 - val_dice_coef: 0.9461
+Epoch 199/200
+Epoch 00199: val_loss did not improve
+ - 41s - loss: -5.2093e+00 - acc: 0.9569 - dice_coef: 0.9547 - val_loss: -8.8145e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+Epoch 200/200
+Epoch 00200: val_loss did not improve
+ - 41s - loss: -5.2094e+00 - acc: 0.9570 - dice_coef: 0.9547 - val_loss: -8.8143e-01 - val_acc: 0.9467 - val_dice_coef: 0.9461
+/opt/ohpc/pub/anaconda3/5.0.1/lib/python3.6/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Using TensorFlow backend.
+/opt/ohpc/pub/anaconda3/5.0.1/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: compiletime version 3.5 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.6
+  return f(*args, **kwds)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+[0.99123966 0.85983682 0.90028505 0.79438285 0.75195227 0.93966246
+ 0.89047625 0.87097185]
+Dice Loss, Dropout, img_agm = 2000
