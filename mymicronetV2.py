@@ -3,6 +3,9 @@
 
 activation_function1 = 'relu'
 activation_function2 = 'tanh'
+batch_size = 8
+epochs = 100
+optimiser = 'adam'
 
 import keras
 from keras.layers import Activation, Dropout
@@ -395,6 +398,7 @@ print('L51o(p0) shape: ',L51o.shape)
 Lreshape = Reshape((data_shape,8),input_shape = (216,64,8))(L51o)
 print('Lreshape shape: ',Lreshape.shape)
 Lout = Activation('softmax')(Lreshape)
+
 print('Lout(Final Output) shape: ',Lout.shape)
 model = Model(inputs = inputs, outputs = Lout)
 model.summary()
@@ -443,7 +447,7 @@ def customized_loss(y_true, y_pred):
     return (1 * K.categorical_crossentropy(y_true, y_pred)) + (0.5 * dice_coef_loss(y_true, y_pred))
 
 # Using SGD optimiser with Nesterov momentum and a learning rate of 0.001
-optimiser = optimizers.adagrad(lr=0.005, momentum=0.9, nesterov=True)
+# optimiser = optimizers.SGD(lr=0.005, momentum=0.9, nesterov=True)
 # optimiser = 'Adam'
 
 # Compiling the model
@@ -458,7 +462,8 @@ model_checkpoint = ModelCheckpoint("exp1.hdf5", monitor='val_loss', verbose=1, s
 Sample weights are passed to the sample_weight argument - Numpy array of weights for the training samples, 
 used for weighting the loss function (during training only)
 """
-model.fit(train_images, train_labels, batch_size=32, epochs=100, validation_data=(test_images, test_labels),
+
+model.fit(train_images, train_labels, batch_size=batch_size, epochs=epochs, validation_data=(test_images, test_labels),
           sample_weight=sample_weights, callbacks=[lr_reducer, csv_logger, model_checkpoint])
 
 def test_preprocessing(test_image):
